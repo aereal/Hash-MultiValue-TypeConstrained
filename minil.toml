@@ -1,0 +1,4 @@
+name = "Hash-MultiValue-TypeConstrained"
+# badges = ["travis"]
+module_maker="ModuleBuildTiny"
+
